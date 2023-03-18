@@ -1,0 +1,4 @@
+name: Spigot-LocateofDeath
+version: '${project.version}'
+main: org.sld.spigotlocateofdeath.Spigot_LocateofDeath
+api-version: 1.18
